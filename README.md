@@ -64,6 +64,17 @@ ASFFuse/
 - The inference time of each image is printed during testing, and the average total time is reported at the end.
 - **The training code will be released after the paper is accepted.**
 
+## Pretrained Weights
+
+The main pretrained model `model-1-best.pt` is already included in this repository under `model/`.
+
+The other four weights used for our **stability testing** are shared via Baidu Netdisk:
+
+- Link: https://pan.baidu.com/s/1zUuc7ozVTUr1LOOY0fa6BA?pwd=0417
+- Extraction code: `0417`
+
+If you want to reproduce our stability experiment, please download these four weights from the link above.
+
 ## Dependencies
 
 The main dependencies are listed in `requirements.txt`. Install them with:
