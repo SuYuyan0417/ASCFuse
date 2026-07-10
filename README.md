@@ -63,6 +63,8 @@ ASFFuse/
 - `result/ir-vi/` is cleared and recreated before each run; back up previous results in advance if needed.
 - The inference time of each image is printed during testing, and the average total time is reported at the end.
 - **The training code will be released after the paper is accepted.**
+- If the uploaded code is incomplete due to our oversight, we will supplement it promptly.
+
 
 ## Pretrained Weights
 
