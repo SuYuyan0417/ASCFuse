@@ -1,4 +1,4 @@
-# ASFFuse User Guide
+# ASCFuse User Guide
 
 ## Quick Test
 
@@ -44,7 +44,7 @@ Each input image pair produces one corresponding fused image, with the same file
 ## Directory Structure
 
 ```
-ASFFuse/
+ASCFuse/
 ├── data/
 │   └── ir-vi/
 │       ├── ir/          # infrared images
