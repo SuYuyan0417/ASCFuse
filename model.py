@@ -1,5 +1,5 @@
 import torch.nn as nn
-from ASFFuse import INet
+from ASCFuse import INet
 
 
 class Model(nn.Module):
